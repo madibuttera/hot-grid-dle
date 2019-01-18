@@ -30,6 +30,8 @@ body {
 }
 
 figcaption {
+  bottom: .5rem;
+  left: .5rem;
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   padding: 1em;
@@ -40,4 +42,5 @@ figcaption {
 
 figure {
   position: relative;
+  margin: 0;
 }
