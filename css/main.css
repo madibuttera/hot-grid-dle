@@ -35,9 +35,9 @@ figcaption {
   padding: 1em;
   color: #fff;
   max-width: 15em;
-  position: relative;
+  position: absolute;
 }
 
 figure {
-  position: absolute;
+  position: relative;
 }
